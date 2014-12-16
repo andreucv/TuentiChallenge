@@ -2,7 +2,7 @@ Repo of 4th TuentiChallenges in 2014
 Was my first TuentiChallenge
 
 First: 
-About selecting from a listed file students that the features you search match with them
+About selecting from a listed file students that the features you search match with them 
 Was explined like:
 We had an elections at University and a list of all students that had voted with its features in a file.
 We know its features and the elector that have voted to. 
