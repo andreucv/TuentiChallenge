@@ -1,5 +1,5 @@
 <h1>Repo of 4th TuentiChallenges in 2014</h1>
-Was my first TuentiChallenge
+Was my first TuentiChallenge, and there are only the first two exercises
 
 <h2>First</h2> 
 About selecting from a listed file students that the features you search match with them
