@@ -10,10 +10,10 @@ We want know its names. Do a search and sort its names in alphabetic sorting.
 
 Second:
 The FIA has a new circuit planner that you put a line with these chars: "-", "/", "\", "#".
-#: means the start lane
--: means a straight part of the circuit
-/: means a right curve
-\: means a left curve
+"#": means the start lane
+"-": means a straight part of the circuit
+"/": means a right curve
+"\": means a left curve
 
 FIA writes the circuit in one dimension like: ---/----\---#-/---\--------/---------\
 and you have to write it in two dimensions.
